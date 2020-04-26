@@ -12,8 +12,8 @@ embedded in the table.*
 Theme | Preview
 ------|-----------------------------------------
 [`monodark`](colors/monodark.lua?raw=1) | ![monodark_preview](https://user-images.githubusercontent.com/3920290/80304201-62353400-87ac-11ea-9b13-9ca1b9db0f99.png)
+[`monokai`](colors/monokai.lua?raw=1) | ![monokai_preview](https://user-images.githubusercontent.com/3920290/80307643-43419c80-87c2-11ea-9f04-580d6acf6252.png)
 [`winter`](colors/winter.lua?raw=1) |![winter_preview](https://user-images.githubusercontent.com/3920290/80304194-5c3f5300-87ac-11ea-9acf-33892579093e.png)
-
 
 ## Light
 
