@@ -19,4 +19,5 @@ Theme | Preview
 
 Theme | Preview
 ------|-----------------------------------------
---- | ---
+[`github`](colors/github.lua?raw=1) | ![github_preview](https://user-images.githubusercontent.com/3920290/80308013-800e9300-87c4-11ea-88a7-1f56104a7423.png)
+
