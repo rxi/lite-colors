@@ -20,4 +20,5 @@ Theme | Preview
 Theme | Preview
 ------|-----------------------------------------
 [`github`](colors/github.lua?raw=1) | ![github_preview](https://user-images.githubusercontent.com/3920290/80308013-800e9300-87c4-11ea-88a7-1f56104a7423.png)
+[`solarized_light`](colors/solarized_light.lua?raw=1) | ![solarized_light_preview](https://user-images.githubusercontent.com/1621631/80608663-632dc600-8a37-11ea-986c-dc8cba846ae6.png)
 
