@@ -2,12 +2,12 @@ local style = require "core.style"
 local common = require "core.common"
 
 style.background = { common.color "#282a36" }
-style.background2 = { common.color "#242630" }
-style.background3 = { common.color "#242630" }
+style.background2 = { common.color "#21222b" }
+style.background3 = { common.color "#21222b" }
 style.text = { common.color "#7b81a6" }
 style.caret = { common.color "#f8f8f0" }
 style.accent = { common.color "#8be9fd" }
-style.dim = { common.color "#6272a4" }
+style.dim = { common.color "#4f5873" }
 style.divider = { common.color "#1f2029" }
 style.selection = { common.color "#44475a" }
 style.line_number = { common.color "#53576e" }
