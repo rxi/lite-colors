@@ -11,7 +11,7 @@ embedded in the table.*
 
 Theme | Preview
 ------|-----------------------------------------
-[`dracula`](colors/dracula.lua?raw=1) | ![dracula_preview](https://user-images.githubusercontent.com/4349174/81487660-2a9aa300-9214-11ea-96e6-25e7a75f5396.png)
+[`dracula`](colors/dracula.lua?raw=1) | ![dracula_preview](https://user-images.githubusercontent.com/3920290/81504252-23d96200-92e0-11ea-9aad-54e93ba3d167.png)
 [`gruvbox_dark`](colors/gruvbox_dark.lua?raw=1) | ![gruvbox_dark_preview](https://user-images.githubusercontent.com/57670615/81137677-94bdfa00-8f2d-11ea-9224-3d70a5ec3101.png)
 [`monodark`](colors/monodark.lua?raw=1) | ![monodark_preview](https://user-images.githubusercontent.com/3920290/80304201-62353400-87ac-11ea-9b13-9ca1b9db0f99.png)
 [`monokai`](colors/monokai.lua?raw=1) | ![monokai_preview](https://user-images.githubusercontent.com/3920290/80307643-43419c80-87c2-11ea-9f04-580d6acf6252.png)
