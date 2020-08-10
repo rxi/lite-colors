@@ -1,8 +1,7 @@
 #!/usr/bin/lua
 
-local filename = ...
+local filename = "colors/solarobj.lua"
 local name = filename:match("([^\\/]+)%..*$") .. "_preview"
-
 
 -- get colors
 local text = io.open(filename):read("*a")
