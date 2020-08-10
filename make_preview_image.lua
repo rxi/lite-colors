@@ -1,6 +1,6 @@
 #!/usr/bin/lua
 
-local filename = "colors/solarobj.lua"
+local filename = "..."
 local name = filename:match("([^\\/]+)%..*$") .. "_preview"
 
 -- get colors
