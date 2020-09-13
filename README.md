@@ -18,6 +18,7 @@ Theme | Preview
 [`monokai`](colors/monokai.lua?raw=1) | ![monokai_preview](https://user-images.githubusercontent.com/3920290/80307643-43419c80-87c2-11ea-9f04-580d6acf6252.png)
 [`nord`](colors/nord.lua?raw=1) | ![nord_preview](https://github.com/bokunodev/lite_modules/blob/master/colors/nord_preview.png?raw=1)
 [`winter`](colors/winter.lua?raw=1) | ![winter_preview](https://user-images.githubusercontent.com/3920290/80304194-5c3f5300-87ac-11ea-9acf-33892579093e.png)
+[`zenburn`](colors/zenburn.lua?raw=1) | ![zenburn_preview](https://i.imgur.com/XUIJwMs.png)
 
 ## Light
 
