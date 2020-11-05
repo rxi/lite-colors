@@ -19,6 +19,7 @@ Theme | Preview
 [`nord`](colors/nord.lua?raw=1) | ![nord_preview](https://user-images.githubusercontent.com/22625346/92419103-6baab180-f139-11ea-8638-d90db10da086.png)
 [`winter`](colors/winter.lua?raw=1) | ![winter_preview](https://user-images.githubusercontent.com/3920290/80304194-5c3f5300-87ac-11ea-9acf-33892579093e.png)
 [`zenburn`](colors/zenburn.lua?raw=1) | ![zenburn_preview](https://i.imgur.com/XUIJwMs.png)
+[`vscode-dark`](colors/vscode-dark.lua?raw=1) | ![vscode-dark_preview](https://i.imgur.com/GcSGaZc.png)
 
 ## Light
 
