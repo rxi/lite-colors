@@ -1,3 +1,6 @@
+-- Most of the colors are taken from:
+-- https://github.com/microsoft/vscode/tree/master/extensions/theme-defaults/themes
+
 local style = require "core.style"
 local common = require "core.common"
 
@@ -26,3 +29,9 @@ style.syntax["literal"] = { common.color "#569CD6" }
 style.syntax["string"] = { common.color "#CE9178" }
 style.syntax["operator"] = { common.color "#D4D4D4" } -- = + - / < >
 style.syntax["function"] = { common.color "#DCDCAA" }
+
+-- PLUGINS
+style.linter_warning = { common.color "#B89500" }     -- linter
+style.bracketmatch_color = { common.color "#76BCFF" } -- bracketmatch
+style.guide = { common.color "#404040" }              -- indentguide
+style.guide_width = 1                                 -- indentguide
