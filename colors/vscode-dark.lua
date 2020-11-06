@@ -27,7 +27,7 @@ style.syntax["keyword2"] = { common.color "#C586C0" } -- self, int float
 style.syntax["number"] = { common.color "#B5CEA8" }
 style.syntax["literal"] = { common.color "#569CD6" }
 style.syntax["string"] = { common.color "#CE9178" }
-style.syntax["operator"] = { common.color "#D4D4D4" } -- = + - / < >
+style.syntax["operator"] = { common.color "#8590A5"}  -- = + - / < >
 style.syntax["function"] = { common.color "#DCDCAA" }
 
 -- PLUGINS
