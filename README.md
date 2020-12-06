@@ -13,6 +13,7 @@ Theme | Preview
 ------|-----------------------------------------
 [`dracula`](colors/dracula.lua?raw=1) | ![dracula_preview](https://user-images.githubusercontent.com/3920290/81507632-9ead7780-92f6-11ea-85e9-7cfb9ffa97ae.png)
 [`duotone`](colors/duotone.lua?raw=1) | ![duotone_preview](https://i.imgur.com/ZND82Lv.png)
+[`duorand`](colors/duorand.lua?raw=1) | 
 [`gruvbox_dark`](colors/gruvbox_dark.lua?raw=1) | ![gruvbox_dark_preview](https://user-images.githubusercontent.com/57670615/81137677-94bdfa00-8f2d-11ea-9224-3d70a5ec3101.png)
 [`liqube`](colors/liqube.lua?raw=1) | ![liqube_preview](https://user-images.githubusercontent.com/49284552/82159394-0c751880-988e-11ea-963d-7a25497a8fee.png)
 [`monodark`](colors/monodark.lua?raw=1) | ![monodark_preview](https://user-images.githubusercontent.com/3920290/80304201-62353400-87ac-11ea-9b13-9ca1b9db0f99.png)
