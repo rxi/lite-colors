@@ -19,6 +19,7 @@ Theme | Preview
 [`monodark`](colors/monodark.lua?raw=1) | ![monodark_preview](https://user-images.githubusercontent.com/3920290/80304201-62353400-87ac-11ea-9b13-9ca1b9db0f99.png)
 [`monokai`](colors/monokai.lua?raw=1) | ![monokai_preview](https://user-images.githubusercontent.com/3920290/80307643-43419c80-87c2-11ea-9f04-580d6acf6252.png)
 [`nord`](colors/nord.lua?raw=1) | ![nord_preview](https://user-images.githubusercontent.com/22625346/92419103-6baab180-f139-11ea-8638-d90db10da086.png)
+[`only_dark`](colors/only_dark.lua?raw=1) | ![only_dark_preview]()
 [`vscode-dark`](colors/vscode-dark.lua?raw=1) | ![vscode-dark_preview](https://i.imgur.com/GcSGaZc.png)
 [`winter`](colors/winter.lua?raw=1) | ![winter_preview](https://user-images.githubusercontent.com/3920290/80304194-5c3f5300-87ac-11ea-9acf-33892579093e.png)
 [`zenburn`](colors/zenburn.lua?raw=1) | ![zenburn_preview](https://i.imgur.com/XUIJwMs.png)
