@@ -11,6 +11,7 @@ embedded in the table.*
 
 Theme | Preview
 ------|-----------------------------------------
+[`cold_lime`](colors/cold_lime.lua?raw=1) | ![cold_lime_preview](https://i.imgur.com/0p3BQCB.png)
 [`dracula`](colors/dracula.lua?raw=1) | ![dracula_preview](https://user-images.githubusercontent.com/3920290/81507632-9ead7780-92f6-11ea-85e9-7cfb9ffa97ae.png)
 [`duorand`](colors/duorand.lua?raw=1) |
 [`duotone`](colors/duotone.lua?raw=1) | ![duotone_preview](https://i.imgur.com/ZND82Lv.png)
