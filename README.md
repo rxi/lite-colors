@@ -11,6 +11,7 @@ embedded in the table.*
 
 Theme | Preview
 ------|-----------------------------------------
+[`anoldhope`](colors/anoldhope.lua?raw=1) | ![anoldhope_preview](https://user-images.githubusercontent.com/16415678/119025918-e4d6f580-b9a4-11eb-8ca0-58b7b7f48dbf.png)
 [`ayu-mirage`](colors/ayu-mirage.lua?raw=1) | ![ayu-mirage_preview](https://user-images.githubusercontent.com/16415678/119024935-e9e77500-b9a3-11eb-874b-a139e8e5515d.png)
 [`dracula`](colors/dracula.lua?raw=1) | ![dracula_preview](https://user-images.githubusercontent.com/3920290/81507632-9ead7780-92f6-11ea-85e9-7cfb9ffa97ae.png)
 [`duorand`](colors/duorand.lua?raw=1) |
