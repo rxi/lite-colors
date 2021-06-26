@@ -11,6 +11,8 @@ embedded in the table.*
 
 Theme | Preview
 ------|-----------------------------------------
+[`anoldhope`](colors/anoldhope.lua?raw=1) | ![anoldhope_preview](https://user-images.githubusercontent.com/16415678/119025918-e4d6f580-b9a4-11eb-8ca0-58b7b7f48dbf.png)
+[`ayu-mirage`](colors/ayu-mirage.lua?raw=1) | ![ayu-mirage_preview](https://user-images.githubusercontent.com/16415678/119024935-e9e77500-b9a3-11eb-874b-a139e8e5515d.png)
 [`cold_lime`](colors/cold_lime.lua?raw=1) | ![cold_lime_preview](https://i.imgur.com/0p3BQCB.png)
 [`dracula`](colors/dracula.lua?raw=1) | ![dracula_preview](https://user-images.githubusercontent.com/3920290/81507632-9ead7780-92f6-11ea-85e9-7cfb9ffa97ae.png)
 [`duorand`](colors/duorand.lua?raw=1) |
@@ -29,7 +31,10 @@ Theme | Preview
 
 Theme | Preview
 ------|-----------------------------------------
+[`ayu-light`](colors/ayu-light.lua?raw=1) | ![ayu-light_preview](https://user-images.githubusercontent.com/16415678/119024733-b3115f00-b9a3-11eb-91ae-b9d4f1d34a6a.png)
 [`github`](colors/github.lua?raw=1) | ![github_preview](https://user-images.githubusercontent.com/3920290/80308013-800e9300-87c4-11ea-88a7-1f56104a7423.png)
 [`moe`](colors/moe.lua?raw=1) | ![moe_preview](https://i.imgur.com/IGEtafP.png)
+[`nice`](colors/nice.lua?raw=1) | ![nice_preview](https://user-images.githubusercontent.com/16415678/119025111-18655000-b9a4-11eb-82f5-9ccf483152a1.png)
+[`noctis-lilac`](colors/noctis-lilac.lua?raw=1) | ![noctis-lilac_preview](https://user-images.githubusercontent.com/16415678/119025572-8f024d80-b9a4-11eb-99b6-5bc222053b5f.png)
 [`solarized_light`](colors/solarized_light.lua?raw=1) | ![solarized_light_preview](https://user-images.githubusercontent.com/3920290/81503910-233fcc00-92de-11ea-9d6d-0a32212e6f02.png)
 [`solarobj`](colors/solarobj.lua?raw=1) | ![solarobj_preview](https://i.imgur.com/3EHFlx2.png)
