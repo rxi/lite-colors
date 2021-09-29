@@ -33,4 +33,5 @@ Theme | Preview
 [`moe`](colors/moe.lua?raw=1) | ![moe_preview](https://i.imgur.com/IGEtafP.png)
 [`solarized_light`](colors/solarized_light.lua?raw=1) | ![solarized_light_preview](https://user-images.githubusercontent.com/3920290/81503910-233fcc00-92de-11ea-9d6d-0a32212e6f02.png)
 [`solarobj`](colors/solarobj.lua?raw=1) | ![solarobj_preview](https://i.imgur.com/3EHFlx2.png)
-[`gruvbox_light`](#) | ![gruvbox_light_preview](#)
+[`gruvbox_light`](colors/gruvbox_light.lua?raw=1) | ![gruvbox_light_preview](https://user-images.githubusercontent.com/9512421/135279380-2d29c6b9-d45b-4cc5-87c8-e8a9d8c7a84b.png)
+
